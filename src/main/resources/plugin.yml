@@ -1,0 +1,9 @@
+name: Kingdoms
+version: ${project.version}
+main: org.toxichazard.kingdoms.main
+api-version: 1.16
+commands:
+  s:
+    description:
+  k:
+    description:
